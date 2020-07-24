@@ -1,0 +1,4 @@
+vector common=[feverdry cough,tiredness]
+VectorCovid =[difficulty breathing or shortness of breath,chest pain or pressure,loss of speech or movement]
+VectorCovidLessSymtoms=[aches and pains,sore throat,diarrhoea,conjunctivitis,headache,loss of taste or smell,a rash on skin, or discolouration of fingers or toes]
+VectorEnemia=[HeadAche, Heartbeat,ChestPain,Dizziness]
